@@ -1,4 +1,6 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function Nav() {
 
@@ -7,20 +9,8 @@ function Nav() {
   }
 
   const categories = [
-    {
-      name: "SCENERY",
-      description: "farts"
-    },
-
-    {
-      name: "PORTFOLIO",
-      description: "Portraits of people in my life"
-    },
-
-    {
-      name: "LANDSCAPE",
-      description: "Fields,",
-    },
+       
+    
   ];
 
   return (
@@ -52,8 +42,15 @@ function Nav() {
               RESUME
             </a>
           </li>
-          <li>
-            <span>CONTACT</span>
+          <li className="mx-2">
+            <a href="#contact-form">
+              CONTACT
+            </a>
+          </li>
+          <li className="mx-2">
+            <a href="#portfolio">
+              PORTFOLIO
+            </a>
           </li>
        
         </ul>

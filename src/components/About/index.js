@@ -1,12 +1,21 @@
 import React from 'react';
-import coverImage from "../../assets/cover/downhill.JPG";
+import coverImage from "../../assets/cover/hogums.jpg";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function About() {
   return (
 <section className="my-5">
-  <h1 id="about">Its
+<div class="row">
+        <div className="col">
+  <h1>Its
    downhill from here!</h1>
-  <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
+  <img src={coverImage} className="img-fluid rounded-circle" style={{ width: "60%", height: "%30" }} alt="cover" />
+  </div>
+  <div className="col">
+    
+  </div>
+  </div>
   
 </section>
   );
