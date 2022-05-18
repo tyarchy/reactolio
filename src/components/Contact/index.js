@@ -6,9 +6,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function ContactForm() {
 
     return (
-        <section>
-          <h1>CONTACT ME</h1>
+        <section >
+          <div class="row">
+          
           <form id="contact-form">
+            <h1>CONTACT ME</h1>
             <div>
               <label htmlFor="name"><p>NAME:</p></label>
               <input type="text" name="name" />
@@ -23,6 +25,7 @@ function ContactForm() {
             </div>
             <button type="submit">Submit</button>
           </form>
+        </div>
         </section>
         );
     }

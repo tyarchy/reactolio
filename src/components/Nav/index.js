@@ -15,12 +15,7 @@ function Nav() {
 
   return (
     <header>
-      <h2>
-        <a href="/">
-          Tyler Gregory
-        </a>
-      </h2>
-      <nav>
+       <nav>
         <ul className="flex-row">
         {categories.map((category) => (
             <li
@@ -38,7 +33,7 @@ function Nav() {
             </a>
           </li>
           <li className="mx-2">
-            <a href="#about">
+            <a href="#resume">
               RESUME
             </a>
           </li>
