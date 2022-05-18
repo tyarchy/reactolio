@@ -12,7 +12,7 @@ function Portfolio() {
 
   return (
     <section >
-      <h1 id="portfolio" class="portfolio">PORTFOLIO</h1>
+      <header id="portfolio" class="portfolio">PORTFOLIO</header>
       <div className="container-fluid">
         <div class="move">
           <div class="row">

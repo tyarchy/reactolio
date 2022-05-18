@@ -1,10 +1,11 @@
 
 
 main {
-  background-image: url("https://cdna.artstation.com/p/assets/images/images/019/112/520/large/nana-dhebuadze-hangar.jpg?1562073101");
+  background-image: url("https://cdnb.artstation.com/p/assets/images/images/023/186/651/large/nana-dhebuadze-2.jpg?1578400457");
 	margin: 0 auto;
-	max-width: 90%;
+	
   padding: 50px 30px;
+  background-position-y: center;
 }
 :root {
   --primary: #050014;
@@ -47,6 +48,30 @@ footer {
   padding-left: 6cm;
   padding-top: 1cm;
   align-items: center;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(245, 200, 2);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 section {
@@ -163,6 +188,7 @@ span[role="img"] {
 
 form {
   width: 40%;
+  padding-left: 2cm;
 }
 
 input {
@@ -185,10 +211,13 @@ li {
 
 nav a:hover {
   text-decoration: none;
+  margin-left : 0em;
+  margin-right : 0em;
 }
 
 nav  li {
   cursor: pointer;
+  justify-content: space-around;
 }
 
 textarea {
