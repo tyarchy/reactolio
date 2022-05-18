@@ -8,12 +8,15 @@ function Footer() {
 
         <footer >
             <div className="row">
-                <h1>MY GITHUB:</h1> <a href="https://github.com/tyarchy"> <img src={github} style={{ width: "25%", height: "75%" }} alt="cover" /></a>
-                
-            
-            <div className="col">
-                <h1 id="resume">CHECKOUT MY RESUME</h1>
-            </div>
+                <h1>MY GITHUB:</h1> <a href="https://github.com/tyarchy"> <img src={github} style={{ width: "25%", height: "75%" }} alt="github" /></a>
+
+
+                <div className="col">
+                    <h1 id="resume">
+                        <a href="https://github.com/tyarchy/reactolio/blob/develop/src/assets/small/resume.pdf"
+                            class="link"
+                        >CHECKOUT MY RESUME</a></h1>
+                </div>
             </div>
         </footer>
     );
