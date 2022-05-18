@@ -2,6 +2,8 @@
 
 ## Description
 ### Reactolio my react portfolio showcase for the apps I created in the University of Utah Coding Bootcamp.
+
+![image](https://user-images.githubusercontent.com/92496520/168966839-9cde31de-7776-4907-a2e9-e7309c0d83b6.png)
   
 ## Table of Contents
 1. [Applications](#Features)
