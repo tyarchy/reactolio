@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactolio/static/css/main.bf070c0f.css",
+    "main.js": "/reactolio/static/js/main.b71d0524.js",
+    "static/js/787.36fee45c.chunk.js": "/reactolio/static/js/787.36fee45c.chunk.js",
+    "static/media/doozie.jpeg": "/reactolio/static/media/doozie.7a028d95fd3833177b80.jpeg",
+    "static/media/hogums.jpg": "/reactolio/static/media/hogums.4ed70f64614268c133cf.jpg",
+    "static/media/brainfood.png": "/reactolio/static/media/brainfood.bb50ae4e778e24df154c.png",
+    "static/media/readme.png": "/reactolio/static/media/readme.bbd237ac79eea2017899.png",
+    "static/media/someweather.png": "/reactolio/static/media/someweather.c8dc1feba85a03425ac5.png",
+    "static/media/workday.png": "/reactolio/static/media/workday.57f1abad33a85ad105d5.png",
+    "static/media/quiz.png": "/reactolio/static/media/quiz.7b9c49f958733ca1b643.png",
+    "static/media/github.png": "/reactolio/static/media/github.56d3888af498b04475cd.png",
+    "index.html": "/reactolio/index.html",
+    "main.bf070c0f.css.map": "/reactolio/static/css/main.bf070c0f.css.map",
+    "main.b71d0524.js.map": "/reactolio/static/js/main.b71d0524.js.map",
+    "787.36fee45c.chunk.js.map": "/reactolio/static/js/787.36fee45c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf070c0f.css",
+    "static/js/main.b71d0524.js"
+  ]
+}
