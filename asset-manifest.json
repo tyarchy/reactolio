@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactolio/static/css/main.bf070c0f.css",
-    "main.js": "/reactolio/static/js/main.b71d0524.js",
+    "main.js": "/reactolio/static/js/main.f18b16b4.js",
     "static/js/787.36fee45c.chunk.js": "/reactolio/static/js/787.36fee45c.chunk.js",
     "static/media/doozie.jpeg": "/reactolio/static/media/doozie.7a028d95fd3833177b80.jpeg",
     "static/media/hogums.jpg": "/reactolio/static/media/hogums.4ed70f64614268c133cf.jpg",
@@ -13,11 +13,11 @@
     "static/media/github.png": "/reactolio/static/media/github.56d3888af498b04475cd.png",
     "index.html": "/reactolio/index.html",
     "main.bf070c0f.css.map": "/reactolio/static/css/main.bf070c0f.css.map",
-    "main.b71d0524.js.map": "/reactolio/static/js/main.b71d0524.js.map",
+    "main.f18b16b4.js.map": "/reactolio/static/js/main.f18b16b4.js.map",
     "787.36fee45c.chunk.js.map": "/reactolio/static/js/787.36fee45c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf070c0f.css",
-    "static/js/main.b71d0524.js"
+    "static/js/main.f18b16b4.js"
   ]
 }
