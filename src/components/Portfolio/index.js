@@ -18,7 +18,7 @@ function Portfolio() {
           <div class="row">
             <div className="col">
               <img src={workday} className="rounded" style={{ width: "70%", height: "70%" }} alt="small" />
-              <h3><a href="https://twodoozies-app.herokuapp.com/">WORK DAY</a></h3>
+              <h3><a href="https://tyarchy.github.io/work-day-todos/">WORK DAY</a></h3>
               <p>Having a hard time planning,<br></br> try this.</p>
             </div>
             <div className="col" >
