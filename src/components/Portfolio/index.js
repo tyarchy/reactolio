@@ -5,7 +5,7 @@ import doozie from "../../assets/small/doozie.jpeg";
 import workday from "../../assets/small/workday.png";
 import someweather from "../../assets/small/someweather.png";
 import quiz from "../../assets/small/quiz.png";
-import readme from "../../assets/small/readme.png";
+import stumpMe from "../../assets/small/stumpMe.png";
 
 
 function Portfolio() {
@@ -46,9 +46,9 @@ function Portfolio() {
               <p>A fun quiz about the James Webb Telescope.</p>
             </div>
             <div className="col">
-              <img src={readme} className="rounded" style={{ width: "70%", height: "80%" }} alt="cover" />
-              <h3><a href="https://github.com/tyarchy/readme-maker-plus/">README MAKER+</a></h3>
-              <p>Need a markdown readme made fast?<br></br> Try this app.</p>
+              <img src={stumpMe} className="rounded" style={{ width: "70%", height: "80%" }} alt="cover" />
+              <h3><a href="https://gentle-scrubland-60701.herokuapp.com/">STUMP-ME</a></h3>
+              <p>A fun and challenging quiz app?<br></br> Try this app.</p>
             </div>
           </div>
         </div>
